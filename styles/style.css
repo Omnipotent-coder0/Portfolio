@@ -1,0 +1,44 @@
+body{
+    background-color:aliceblue;
+    font-family: "Comfortaa" , sans-serif;
+}
+hr{
+    border:1px dotted rgb(26, 233, 130);
+}
+.name{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(43, 101, 226);
+    text-transform: uppercase;
+}
+img{
+    margin: 0;
+}
+.profile-image{
+    width: 30%;
+    margin-left: 35%;
+}
+.content{
+    color: rgb(5, 74, 105);
+}
+.summary .content{
+    text-align: center;
+}
+.heading{
+    color: rgb(21, 49, 109);
+    
+}
+.fa-sharp{
+    margin-left: 10px;
+}
+li{
+    font-size: 1.2rem;
+}
+div{
+    margin:30px 20px;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
